@@ -19,7 +19,7 @@ This initiative facilitates online appointment requests for clients or patients 
 - Delete account    
 - Eedit account settings
       
-### Patiens(Clients)
+### Patients(Clients)
   
   - Make appointment online
   - Create accounts themslves
